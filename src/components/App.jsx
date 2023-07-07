@@ -1,15 +1,18 @@
-import Header from "./Header";
 import "../assets/styles/index.css";
+import Header from "../components/Header";
+import Home from "../components/Home";
+import Footer from "../components/Footer";
 
-import Footer from "./Footer"
-import Home from "./Home";
+
+
+
 function App() {
   return (
-    <>
-      <Header />
-      <Home/>
-      <Footer/>
-    </>
+     <>
+     <Header />
+     <Home/>
+     <Footer/>
+</>
   );
 }
 
