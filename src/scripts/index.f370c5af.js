@@ -1,9 +1,4 @@
-const wrapper = document.querySelector(".wrapper");
-document.querySelector(".poll-area").addEventListener("click", (e) => {
-  if (e.target.closest(".opt")) {
-   wrapper.classList.add('hidden')
-  }
-});
+
 const e = document.querySelector(".header__main-ham-menu-cont"),
   n = document.querySelector(".header__sm-menu"),
   s = document.querySelector(".header__main-ham-menu"),
