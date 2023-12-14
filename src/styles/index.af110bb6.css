@@ -46,7 +46,7 @@ html {
 }
 .poll-area label:hover {
   border-color: #ddd;
-  background-color: #2f5385;
+  background-color: #6a3ac9;
 }
 label.selected {
   border-color: #6665ee !important;
@@ -231,7 +231,7 @@ textarea {
   content: "";
   height: 5px;
   width: 3rem;
-  background: #2f5385;
+  background: #6a3ac9;
   border-radius: 5px;
   position: absolute;
   top: calc(100% + 1.5rem);
@@ -301,13 +301,13 @@ textarea {
 }
 .btn--theme {
   color: #fff;
-  background: #2f5385;
+  background: #6a3ac9;
 }
 .btn--theme-inv {
-  color: #2f5385;
+  color: #6a3ac9;
   box-shadow: none;
   background: #fff;
-  border: 2px solid #2f5385;
+  border: 2px solid #6a3ac9;
   padding: calc(1.5rem - 2px) calc(5rem - 2px);
 }
 .sec-pad {
@@ -615,7 +615,7 @@ textarea {
 .project-cs-hero {
   color: #fff;
   background-color: #0000;
-  background-image: linear-gradient(90deg, #2f5385cc, #2f5385cc),
+  background-image: linear-gradient(90deg, #6a3ac9cc, #6a3ac9cc),
     url(../img/common-bg.70a61d43.svg);
   background-position: 50%;
   background-repeat: repeat, repeat;
@@ -756,12 +756,12 @@ textarea {
   display: flex;
 }
 .header__logo-container:hover {
-  color: #2f5385;
+  color: #6a3ac9;
 }
 .header__logo-img-cont {
   width: 5rem;
   height: 5rem;
-  background: #2f5385;
+  background: #6a3ac9;
   border-radius: 50px;
   margin-right: 1.5rem;
   overflow: hidden;
@@ -805,7 +805,7 @@ textarea {
   display: inline-block;
 }
 .header__link:hover {
-  color: #2f5385;
+  color: #6a3ac9;
 }
 @media only screen and (width<=56.25em) {
   .header__link {
@@ -861,7 +861,7 @@ textarea {
   display: block;
 }
 .header__sm-menu-link a:hover {
-  color: #2f5385;
+  color: #6a3ac9;
 }
 .header__sm-menu-link:first-child a {
   border-top: 1px solid #eee;
@@ -957,10 +957,10 @@ italic {
   padding: 1rem 2rem;
   font-size: 1.6rem;
   font-weight: 600;
-  box-shadow: 0px 1px 12px -8px #2f5385;
+  box-shadow: 0px 1px 12px -8px #6a3ac9;
   background-color: white;
   color: #000000d4;
-  border: 2px solid #2f5385;
+  border: 2px solid #6a3ac9;
 }
 .mouse {
   width: 25px;
